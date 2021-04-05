@@ -29,15 +29,3 @@ def same_structure_as(example, copy):
 
 a = same_structure_as([1,[1,1]],[2,[2,2]])
 print(a)
-
-# a = [1, [1, []]]
-# # # b = '[1]'
-# # # # print(slice([1][1]))
-# print(type(a))
-
-#
-# def foo(a, b):
-#     if type(a) != type(b):
-#         return False
-#
-# print(foo(3, 4))
