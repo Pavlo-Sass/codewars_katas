@@ -3,6 +3,7 @@
 # 'Finished!', otherwise return 'Try again!'
 #
 # Sudoku rules:
+
 #
 # Complete the Sudoku puzzle so that each and every row, column, and region contains the numbers one through nine only
 # once.
