@@ -80,7 +80,3 @@ def dirReduc(arr):
 a = ["NORTH", "SOUTH", "EAST", "WEST", "NORTH", "NORTH", "SOUTH", "NORTH", "WEST", "EAST"]
 b = dirReduc(a)
 print(b)
-
-
-
-# 555
